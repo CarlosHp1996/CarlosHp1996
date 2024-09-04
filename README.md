@@ -31,5 +31,5 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosHp1996&theme=midnight-purple&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHp1996&theme=midnight-purple)](https://github.com/CarlosHp1996/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosHp1996&theme=transparent&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHp1996&theme=transparent)](https://github.com/CarlosHp1996/github-readme-stats)
