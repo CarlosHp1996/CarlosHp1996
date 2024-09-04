@@ -1,4 +1,5 @@
-## About Me
+## Hello, Welcome! <img alt="Carlos-HTML" height="30" width="40" src="https://github.com/user-attachments/assets/0e2a7286-36e5-47c2-a6d8-522c7e24d1e5"/>
+
 
 - 💻 Currently, I'm a backend developer
 - 📝 I'm studying React Native
