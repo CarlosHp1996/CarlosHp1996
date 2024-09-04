@@ -1,4 +1,4 @@
-## Hello, Welcome! <img alt="Carlos-HTML" height="30" width="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"/>
+## Hello, Welcome! <img alt="Carlos-HTML" height="20" width="40" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"/>
 
 
 - 💻 Currently, I'm a backend developer
