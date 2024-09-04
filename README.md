@@ -12,8 +12,7 @@
   <img align="center" alt="Carlos-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
   <img align="center" alt="Carlos-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />       
   <img align="center" alt="Carlos-Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />   
-    <img align="right" alt="Carlos-GIF"  
-height="200" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWh4Z253M3ZqN3l2MWE5MWxvYmVwdDNwYmRpMW8ybTlrM24yOHh3YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.webp" /> 
+    <img align="right" alt="Carlos-GIF" height="200" width="500" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif?raw=true" /> 
 </div>
 
   ## Studying 
