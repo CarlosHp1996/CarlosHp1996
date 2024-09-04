@@ -29,3 +29,7 @@
   <a href="https://www.linkedin.com/in/carloshpsantos17" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+##
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosHp1996&theme=midnight-purple&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHp1996&theme=midnight-purple)](https://github.com/CarlosHp1996/github-readme-stats)
