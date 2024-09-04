@@ -1,7 +1,7 @@
 ## About Me
 
 - 💻 Currently, I'm a backend developer
-- 📝 I'm studying JavaScript
+- 📝 I'm studying React Native
 - 😄 Welcome to explore my repositories and projects. I am available for collaboration, help and feedback. Let's build!
 
 ## Developer
