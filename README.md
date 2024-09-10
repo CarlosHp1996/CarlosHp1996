@@ -2,7 +2,7 @@
 
 
 - 💻 Currently, I'm a backend developer
-- 📝 I'm studying React Native
+- 📝 I'm studying Javascript and React Native
 - 😄 Welcome to explore my repositories and projects. I am available for collaboration, help and feedback. Let's build!
 - 🛠️ I am currently developing a Personal Event Management System
 
