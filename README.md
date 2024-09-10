@@ -30,8 +30,7 @@
 </div>
 
 ## My Stats
-
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=CarlosHp1996&theme=transparent&show_icons=true"/>
-<img alt="top langs" align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHp1996&layout=compact"/>
+<img alt="top langs" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHp1996&layout=compact"/>
+<!--<img alt="my stats" align="left" width="77%" src="https://github-readme-stats.vercel.app/api?username=CarlosHp1996&theme=transparent&show_icons=true"/>-->
 
 
