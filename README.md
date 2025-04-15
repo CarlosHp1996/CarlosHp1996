@@ -1,7 +1,7 @@
 ## Hello, I'm Carlos! <img alt="Carlos-HTML" height="20" width="30" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"/>
 
-
-- 💻 Currently, I'm a backend developer
+- ⚙️ Computer Engineer
+- 💻 Full Stack developer
 - 📝 I'm studying Javascript and React Native
 - 😄 Welcome to explore my repositories and projects. I am available for collaboration, help and feedback. Let's build!
 - 🛠️ I am currently developing a Personal Event Management System
