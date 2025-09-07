@@ -4,7 +4,7 @@
 - 💻 Full Stack developer
 - 📝 I'm studying Javascript and React Native
 - 😄 Welcome to explore my repositories and projects. I am available for collaboration, help and feedback. Let's build!
-- 🛠️ I am currently developing a Web Scraping with .Net, React and Python
+- 🛠️ I am currently developing a Web Scraping with C# .Net, React and Python
 
 ## Developer
 <div style="display: inline_block"><br>
