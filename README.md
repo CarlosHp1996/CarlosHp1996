@@ -2,9 +2,8 @@
 
 - ⚙️ Computer Engineer
 - 💻 Full Stack developer
-- 📝 I'm studying React Native
 - 😄 Welcome to explore my repositories and projects. I am available for collaboration, help and feedback. Let's build!
-- 🛠️ I am currently developing a Web Scraping with C# .Net, React and Python
+- 🛠️ Building algorithmic trading systems for prediction markets
 
 ## Developer
 <div style="display: inline_block"><br>
